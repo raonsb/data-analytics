@@ -130,7 +130,7 @@ README.md      # Project documentation
 
 **Email:** raonbereknew@gmail.com
 
-**LinkedIn:** [linkedin.com/in/raonspielbergberek](www.linkedin.com/in/raonspielbergberek)
+**LinkedIn:** [linkedin.com/in/raonspielbergberek](https://www.linkedin.com/in/raonspielbergberek)
 
 **Instagram:** [@raonsb](https://www.instagram.com/raonsb)
 
